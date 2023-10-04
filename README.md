@@ -1,1 +1,5 @@
-# DsKi_DataPreparation
+DsKi_DataPreparation
+=======================
+## Files
+* Init.ipynm
+* konstruktor.ipynb
